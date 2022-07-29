@@ -5,6 +5,6 @@ Firstly ,we need to identify the biological named entity of interest i.e tag the
 Then,we need to find the co-occurrence between the entities i.e genotype and the phenotype
 ## Model pipeline 
 
-![geno](https://user-images.githubusercontent.com/91667232/181783979-dadf204e-a222-4225-bea3-723e9247ebd5.png)
+![flowchart](https://user-images.githubusercontent.com/91667232/181785955-1c8de92a-0995-4e50-b252-46918ef9e8e0.png)
 
 ## Result
